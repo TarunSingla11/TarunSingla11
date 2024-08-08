@@ -8,7 +8,7 @@ Currently, I'm pursuing my M.Tech in Industrial and Management Engineering at II
 
 Programming Languages: Python, C
 
-Tools & Technologies: Excel, Pandas, Numpy, Opencv, SQL.
+Tools & Technologies: Excel, Pandas, Numpy, Opencv, SQL*,Tableau*
 
 Interests: Machine Learning, AI, Data Science, Operation.
 
